@@ -1,5 +1,5 @@
 {
-    "name": "bot-admin",
+    "name": "nautaii",
     "env": {
         "TELEGRAM_TOKEN": {
             "description": "el token del bot de telegram que te da https://t.me/BotFather",
